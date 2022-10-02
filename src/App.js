@@ -200,6 +200,7 @@ function App() {
         >
           ABOUT
         </Button>
+
         <Button
           style={{
             border: "3px solid black",
@@ -213,8 +214,18 @@ function App() {
           NFT FAUCET
         </Button>
 
-        {//activeAccount && <div style={{ textAlign: "right", width: "100%", padding: 5 }}>{activeAccount.address}</div>
-        }
+        <Button
+          style={{
+            border: "3px solid black",
+            margin: 5
+          }}
+          fullWidth
+          onClick={() => {
+            window.open("https://github.com/99ff01/BoXTZ", '_blank', 'noopener,noreferrer');
+          }}
+        >
+          GITHUB
+        </Button>
 
         <Button
           style={{
