@@ -20,7 +20,6 @@ select nfts you want to sell andd enter the price you want & create !
 use explore tab to open boxes !
 
 
-
 ### `Motivation`
 
 Collectibles gain more value if they are sold as a set just like pokemon cards. Imagine a box containing all NFT’s your favorite artist released.
@@ -30,6 +29,10 @@ Another use for BoXTZ is that box creators can add their messages as an NFT, whi
 Artists can benefit from BoXTZ by making the collecting process easier and faster for collectors.
 
 Overall BoXTZ aims to provide more options for both artists and collectors for trading their NFTs.
+
+### `Code`
+
+smartpy: https://smartpy.io/ide?cid=QmYSj7evR6F3eecynEtiJc2Trr7rNhGgKZFxPJsdNd2znB&k=7a50db6253da3903b8d1
 
 Contract Address: KT1Tmo6GTcPztKxGxCRP6ptdHVjgH6kL1pTj 
 https://better-call.dev/ghostnet/KT1Tmo6GTcPztKxGxCRP6ptdHVjgH6kL1pTj/operations
