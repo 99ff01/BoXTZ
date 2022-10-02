@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BoXTZ/static/css/main.dfb745ed.chunk.css",
+    "main.js": "/BoXTZ/static/js/main.3f2d17d4.chunk.js",
+    "main.js.map": "/BoXTZ/static/js/main.3f2d17d4.chunk.js.map",
+    "runtime-main.js": "/BoXTZ/static/js/runtime-main.5bbccf69.js",
+    "runtime-main.js.map": "/BoXTZ/static/js/runtime-main.5bbccf69.js.map",
+    "static/js/2.102bb4af.chunk.js": "/BoXTZ/static/js/2.102bb4af.chunk.js",
+    "static/js/2.102bb4af.chunk.js.map": "/BoXTZ/static/js/2.102bb4af.chunk.js.map",
+    "index.html": "/BoXTZ/index.html",
+    "static/css/main.dfb745ed.chunk.css.map": "/BoXTZ/static/css/main.dfb745ed.chunk.css.map",
+    "static/js/2.102bb4af.chunk.js.LICENSE.txt": "/BoXTZ/static/js/2.102bb4af.chunk.js.LICENSE.txt",
+    "static/media/Infinity.42a85c88.svg": "/BoXTZ/static/media/Infinity.42a85c88.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bbccf69.js",
+    "static/js/2.102bb4af.chunk.js",
+    "static/css/main.dfb745ed.chunk.css",
+    "static/js/main.3f2d17d4.chunk.js"
+  ]
+}
